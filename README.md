@@ -42,7 +42,7 @@ def main():
     # Digite o numero da ultima pagina
     
     number_initial_page = 1
-    number_final_page = 2
+    number_final_page = 15
 
     # loop por cada página e traduza-a..
     while number_initial_page < number_final_page:
